@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  text-align:left;
+}
+
+.div1{
+  padding-left: 100px;
 }
 
 .App-logo {
